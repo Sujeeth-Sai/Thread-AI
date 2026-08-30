@@ -27,6 +27,9 @@ Research becomes fragmented when useful information is spread across websites, p
 
 THREAD replaces that manual workflow with a traceable research system in which every conclusion remains connected to its evidence.
 
+TESTING CREDS:- test@gmail.com
+                test@1234
+
 ## How THREAD works
 
 ```mermaid
